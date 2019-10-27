@@ -35,4 +35,4 @@ class StateManager:
         if self._current_state == COPTER_STATE_LANDING:
             self._current_state = COPTER_STATE_LANDED
         elif self._current_state == COPTER_STATE_TAKING_OFF:
-            self._current_state = COPTER_STATE_NAVIGATING
+            self._current_state = COPTER_STATE_HOVERING
