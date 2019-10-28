@@ -61,6 +61,8 @@ After running the python code, you can use the keys below to send commands to be
 
 
 ## Credits
-- The project is developed during Software II seminar, in Master of Robotics and Advanced Construction (MRAC) 2018-19.
-- Students: Soroush Garivani, Jean-Nicolas Alois Dackiew, Andrzej Foltman, Filip Bielicki
-- Tutors: Daniel Serrano Lopez, Starsky Lara
+__Parrot Bebop Controller__ is a project of IaaC, Institute for Advanced Architecture of Catalonia, Developed at __Master in Robotics and Advanced Construction (MRAC)__ in __2018-2019__ by:
+
+Students: __Soroush Garivani, Jean-Nicolas Dackiw, Andrzej Foltman, Filip Bielicki__
+
+Faculty: __Daniel Serrano Lopez, Starsky Lara__
