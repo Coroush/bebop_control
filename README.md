@@ -1,6 +1,9 @@
 # Parrot Bebop 2 Controller
 
 This code represents parrot bebop 2.0 PID controller ROS package using way points, based on Bebop's built-in visual-inertial odometry.
+In this project a controller was developed for Parrot bebop 2.0 drone, in order to navigate autonomously to the users desired locations and collect data from the environment, such as object recognition, photogrammetry, etc.
+
+
 
 __Workflow:__
 
